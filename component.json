@@ -1,0 +1,14 @@
+{
+  "name": "igrow",
+  "version": "1.0.0",
+  "description": "igrow component",
+  "keywords": [
+    "igrow",
+    "component"
+  ],
+  "main": "igrow.js",
+  "scripts": [
+    "vendor/igrow/igrow.js"
+  ],
+  "license": "MIT"
+}
